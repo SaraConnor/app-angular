@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url("../assets/img/fond.png");
+}
+.container{
+  background: white;
+  margin-top: 5%;
+  padding-top: 2%
+}
+.page-header{
+  font-family: calligraffiti;
+  text-decoration: underline;
+  color:grey;
+}
+.main{
+  margin:0 5%;
+}
+h3{
+  padding-bottom: 2%;
+}
+h4{
+  padding: 5% 2%;
+}
+.book-description{
+  padding-top: 5%;
+}
+.img-books{
+  margin: 8% 25%
+}
+.div-book>h2{
+  color: #90C29C;
+}
